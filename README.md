@@ -32,8 +32,8 @@ Pulse is a high-tension, real-time gambling game designed as a Stake Original. P
 ```
 pulse-game/
 │
-├── frontend/
-│   ├── index.html
+├frontend/index.html
+│   ├── index.htmlp
 │   ├── style.css
 │   └── app.js
 │
@@ -47,3 +47,8 @@ pulse-game/
 ## 📜 License
 
 This concept is developed for submission to Stake under its developer program and is not open-source.
+•	frontend/index.html
+	•	frontend/style.css
+	•	frontend/app.js
+	•	backend/gameLogic.js
+	•	backend/fairnessUtils.js
