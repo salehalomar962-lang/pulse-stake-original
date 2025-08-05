@@ -3,7 +3,7 @@
 high-stakes multiplier survival game for Stake.com. Tap out before the voltage spike!
 # Pulse – Stake Original Game Concept
 
-![Pulse Game Preview]![Pulse Game Preview](./A_promotional_digital_image_for_the_conceptual_game.png)
+![Pulse Game Preview]![Pulse Game Preview](https://media.discordapp.net/attachments/919238769566162974/1402226150377521223/image.png?ex=6893245e&is=6891d2de&hm=4d7a5315d49d88d56b599c6bd29c74671866282e570836d8e4f9ede4905b5548&=&format=webp&quality=lossless&width=474&height=474)
 Pulse is a high-tension, real-time gambling game designed as a Stake Original. Players must tap out before a hidden voltage spike hits as a glowing pulse moves across a voltage line. The longer they hold, the higher their multiplier – but so is the risk.
 
 ## 🎮 Game Concept
