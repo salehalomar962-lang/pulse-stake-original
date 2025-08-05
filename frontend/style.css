@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.game-container {
+  border: 2px solid #0ff;
+  padding: 20px;
+  border-radius: 10px;
+  background: #222;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  background: #0ff;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  border-radius: 5px;
+}
