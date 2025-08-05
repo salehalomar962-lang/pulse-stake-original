@@ -28,7 +28,9 @@ Pulse is a high-tension, real-time gambling game designed as a Stake Original. P
 - Spike location pre-generated and verifiable using Stake's standard fairness model.
 
 ## 📁 Project Structure (Mock)
-
+- frontend/
+- backend/
+- README.md
 ```
 
 ## 📜 License
